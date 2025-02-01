@@ -1,2 +1,3 @@
 "add feature1"
 improve feature1 (bug fixed)
+add feature2
