@@ -1,2 +1,2 @@
 add feature1
-improving feature1
+improving feature1 (with bug)
